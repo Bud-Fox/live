@@ -1,4 +1,4 @@
-# Bud Fox
+# :chart: Bud Fox :currency_exchange:
 
 > Forecast price of any cryptocurrency on the fly using machine learning algorithms
 
